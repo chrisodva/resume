@@ -40,7 +40,7 @@ Took over start up commercial software product division of a DoD Contractor and 
 
 * Increased revenue and user count over 2000% in first 11 months of 2010.
 * Designed and implemented web marketing program on a shoestring budget that resulted in top 10 organic Google placement for multiple key terms, and an Adwords program with positive ROI.
-* Developed pricing and market position strategy for hosted operations management software.
+* Developed pricing and market position strategy for SaaS operations management software.
 * Implemented customer systems and served as first line of tech support.
 
 **Senior Sales Consultant, Unanet Technologies, (7/05 –  1/10)**
