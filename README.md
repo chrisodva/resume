@@ -16,8 +16,8 @@ I asked smart questions, challenged answers, and generally helped our prospectiv
 
 * Sold 2 million in Drupal development in 20 months
 * Won 22% of propsals submitted (1 out 4.5) and made short list over 50% of the time.
-* Implmented sales processes, forecasting, pipeline management, etc.
-* Implmented SugarCRM, then migrated to Zoho CRM.
+* Implemented sales processes, forecasting, pipeline management, etc.
+* Implemented SugarCRM, then migrated to Zoho CRM.
 
 **Director of Sales, NXC North America (3/2013 to 3/2014)**
 
