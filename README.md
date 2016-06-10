@@ -14,7 +14,7 @@ I sell the DKAN Open Souce as a Service product to the Federal market.
 
 I asked smart questions, challenged answers, and generally helped our prospective clients think about what their digital strategy needed to be. I also wrote proposals and gave presentations to sell our vision for how the Drupal website we were pitching would support and advance the client's digital strategy.
 
-* Sold 2 million in Drupal development in 20 months
+* Sold $2 million in Drupal development in 20 months
 * Won 22% of propsals submitted (1 out 4.5) and made short list over 50% of the time.
 * Implemented sales processes, forecasting, pipeline management, etc.
 * Implemented SugarCRM, then migrated to Zoho CRM.
