@@ -8,14 +8,14 @@ Although I'm a sales / business development guy by day,  I'm a geek at heart tha
 
 **Senior Sales Executive - Open Data Solutions GovDelivery (NuCivic) (11/2015 to present)**
 
-I sell the DKAN Open Souce as a Service product to the Federal market.
+I sell the DKAN Open Source as a Service product to the Federal market.
 
 **Digital Strategist, Taoti Creative (3/2014 to 11/2015)**
 
 I asked smart questions, challenged answers, and generally helped our prospective clients think about what their digital strategy needed to be. I also wrote proposals and gave presentations to sell our vision for how the Drupal website we were pitching would support and advance the client's digital strategy.
 
 * Sold $2 million in Drupal development in 20 months
-* Won 22% of propsals submitted (1 out 4.5) and made short list over 50% of the time.
+* Won 22% of proposals submitted (1 out 4.5) and made short list over 50% of the time.
 * Implemented sales processes, forecasting, pipeline management, etc.
 * Implemented SugarCRM, then migrated to Zoho CRM.
 
@@ -34,7 +34,7 @@ Sold licensed, curated, content and content management services to web publisher
 * Closed more new business deals in 2012  than the previous two person sales teams did in either 2011 or 2010.
 * Improved web marketing conversion rates and maintained lead flow while reducing web marketing budget 50%.
 
-**Director of Business Development, Capriccio Software, (1/10 – 12/10 when sequestration eliminted my position)**
+**Director of Business Development, Capriccio Software, (1/10 – 12/10 when sequestration eliminated my position)**
 
 Took over start up commercial software product division of a DoD Contractor and turned it around in less than 1 year.
 
