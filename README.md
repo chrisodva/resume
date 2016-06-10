@@ -1,17 +1,16 @@
 Chris L. O'Donnell  /  Fredericksburg, VA.  /  540.455.4507  /  chris@odonnellweb.com
 										
-
-**Web / Open Source Savvy Sales Executive with Exceptional Technical Skills**
+### Web / Open Source Savvy Sales Executive with Exceptional Technical Skills
 
 Although I'm a sales / business development guy by day,  I'm a geek at heart that is more comfortable in Debian than Windows. I know content management systems; Drupal, Wordpress, eZ-Publish, Anchor, Ghost, Pelican; and those are just the CMS' I've installed, used, or sold in the last several years. Also, I sold $2 million in Drupal consulting over a 20 month period recently.
 
-**RECENT EXPERIENCE**
+### RECENT EXPERIENCE
 
-*Senior Sales Executive - Open Data Solutions GovDelivery (NuCivic) (11/2015 to present)*
+**Senior Sales Executive - Open Data Solutions GovDelivery (NuCivic) (11/2015 to present)**
 
 I sell the DKAN Open Souce as a Service product to the Federal market.
 
-*Digital Strategist, Taoti Creative (3/2014 to 11/2015)*
+**Digital Strategist, Taoti Creative (3/2014 to 11/2015)**
 
 I asked smart questions, challenged answers, and generally helped our prospective clients think about what their digital strategy needed to be. I also wrote proposals and gave presentations to sell our vision for how the Drupal website we were pitching would support and advance the client's digital strategy.
 
@@ -20,7 +19,7 @@ I asked smart questions, challenged answers, and generally helped our prospectiv
 * Implmented sales processes, forecasting, pipeline management, etc.
 * Implmented SugarCRM, then migrated to Zoho CRM.
 
-*Director of Sales, NXC North America (3/2013 to 3/2014)*
+**Director of Sales, NXC North America (3/2013 to 3/2014)**
 
 Sold open source and web consulting in North America for a Europe based company.
 
@@ -28,14 +27,14 @@ Sold open source and web consulting in North America for a Europe based company.
 * Closed first projects in US market in multiple verticals (non-profit, education, state government, tourism).
 * Doubled company sales.
 
-*Director of Sales and Marketing, YellowBrix, Inc. (2011 to 1/2013 when company ceased operations)*
+**Director of Sales and Marketing, YellowBrix, Inc. (2011 to 1/2013 when company ceased operations)**
 
 Sold licensed, curated, content and content management services to web publishers.
 
 * Closed more new business deals in 2012  than the previous two person sales teams did in either 2011 or 2010.
 * Improved web marketing conversion rates and maintained lead flow while reducing web marketing budget 50%.
 
-*Director of Business Development, Capriccio Software, (1/10 – 12/10 when sequestration eliminted my position)*
+**Director of Business Development, Capriccio Software, (1/10 – 12/10 when sequestration eliminted my position)**
 
 Took over start up commercial software product division of a DoD Contractor and turned it around in less than 1 year.
 
@@ -44,7 +43,7 @@ Took over start up commercial software product division of a DoD Contractor and 
 * Developed pricing and market position strategy for hosted operations management software.
 * Implemented customer systems and served as first line of tech support.
 
-*Senior Sales Consultant, Unanet Technologies, (7/05 –  1/10)*
+**Senior Sales Consultant, Unanet Technologies, (7/05 –  1/10)**
 
 Served both sales and sales engineering role to sell SaaS professional services automation solution, primarily to government contractors.   
 
@@ -53,7 +52,7 @@ Served both sales and sales engineering role to sell SaaS professional services 
 * Pure hunter environment in which I was only responsible for new business.
 
 
-*Business Development Director, Lucidea LLC, (5/03 -6/04)*
+**Business Development Director, Lucidea LLC, (5/03 -6/04)**
 
 Responsible for all sales activities for a boutique web software development company focused on the non-profit and membership association market. 
 
@@ -62,17 +61,17 @@ Responsible for all sales activities for a boutique web software development com
 * Essentially worked myself out of a job as company did not want to grow beyond 20 employees.
 
 
-**Other Experience**
+### Other Experience
 
 Freelance web design and business development (1996 to present)  
 Volunteer Webmaster, United States Fencing Association, Virginia Division (2010-2014)
 
-**Education**
+### Education
 
-*Georgia State University*   
+**Georgia State University**    
 Master of Business Administration - Emphasis in Corporate Finance
 
-*Purdue University*    
+**Purdue University**    
 Bachelor of Science - Organizational Leadership  
 Associate of Applied Science - Electrical Engineering Technology
 
