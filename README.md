@@ -8,7 +8,7 @@ Although I'm a sales / business development guy by day,  I'm a geek at heart tha
 
 **Senior Sales Executive - Open Data Solutions, GovDelivery / NuCivic (11/2015 to present)**
 
-I sell the DKAN Open Source as a Service product to the Federal market.
+I sell the DKAN (Drupal Distro) Open Source as a Service product to the Federal market.
 
 **Digital Strategist, Taoti Creative (3/2014 to 11/2015)**
 
