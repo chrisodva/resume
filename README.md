@@ -6,7 +6,7 @@ Although I'm a sales / business development guy by day,  I'm a geek at heart tha
 
 ### RECENT EXPERIENCE
 
-**Senior Sales Executive - Open Data Solutions GovDelivery (NuCivic) (11/2015 to present)**
+**Senior Sales Executive - Open Data Solutions, GovDelivery / NuCivic (11/2015 to present)**
 
 I sell the DKAN Open Source as a Service product to the Federal market.
 
