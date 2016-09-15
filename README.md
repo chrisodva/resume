@@ -2,7 +2,7 @@ Chris L. O'Donnell  /  Fredericksburg, VA.  /  540.455.4507  /  chris@odonnellwe
 										
 ### Web / Open Source Savvy Sales Executive with Exceptional Technical Skills
 
-Although I'm a sales / business development guy by day,  I'm a geek at heart that is more comfortable in Debian than Windows. I know content management systems; Drupal, Wordpress, eZ-Publish, Anchor, Ghost, Pelican; and those are just the CMS' I've installed, used, or sold in the last several years. Also, I sold $2 million in Drupal consulting over a 20 month period recently.
+Although I'm a sales / business development guy that sold $2 million in Drupal development over a 20 month period recently, I'm a geek at heart that is more comfortable in Debian than Windows. I know content management systems; Drupal, Wordpress, eZ-Publish, Anchor, Ghost, Pelican; and those are just the CMS' I've installed, used, or sold in the last several years.
 
 ### RECENT EXPERIENCE
 
