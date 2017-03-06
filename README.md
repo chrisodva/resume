@@ -6,6 +6,10 @@ Although I'm a sales / business development guy that sold $2 million in Drupal d
 
 ### RECENT EXPERIENCE
 
+**Business Development Manager - Promet Source (9/2016 to current)**
+
+I sell Drupal development and support to new Promet clients.
+
 **Senior Sales Executive - Open Data Solutions, GovDelivery / NuCivic (11/2015 to 7/2016)**
 
 I sold the DKAN (Drupal Distro) Open Source as a Service product to the Federal market.
